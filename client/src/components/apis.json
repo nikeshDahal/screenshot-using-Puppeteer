@@ -1,0 +1,24 @@
+[
+    {
+        "category": "Clothes items",
+        "id": 1
+      },
+      {
+        "category": "Electronics items",
+        "id": 2
+      },
+      {
+        "category": "cosmetics items",
+        "id": 3
+      },
+      {
+        "category": "utilities items",
+        "id": 4
+      },
+      {
+        "category": "others",
+        "id": 5
+      }
+
+
+]
